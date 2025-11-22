@@ -1,3 +1,6 @@
 __pycache__/
 *.log
 *.tmp
+__pycache__/
+*.log
+*.tmp
