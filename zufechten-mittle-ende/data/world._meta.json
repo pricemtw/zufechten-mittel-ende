@@ -1,0 +1,15 @@
+{
+  "theme": "inspired by the malazan books by steven erikson, you are a knight errant from 15th century germany on earth out of time and place, you continue doing knight errant things, just in the world of malazan",
+  "tone": "serious with occasional dry humor",
+  "starting_conditions": {
+    "player_origin": "village at forest edge",
+    "initial_conflict": "dealing with weak starving bandits about to ambush the town",
+    "available_factions": ["Merchants Guild", "Forest Rangers"]
+  },
+  "story_guidelines": [
+    "All events must logically affect player stats or world state",
+    "NPCs retain memory of past interactions",
+    "Objects in world persist unless explicitly removed",
+    "Deaths or major changes must be reflected in timeline and player story"
+  ]
+}
