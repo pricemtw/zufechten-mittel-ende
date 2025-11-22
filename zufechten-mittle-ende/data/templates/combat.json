@@ -1,0 +1,10 @@
+{
+  "type": "combat",
+  "tone": "serious",
+  "npc_options": ["Forkrul Assail", "malazan", "Bandit", "Jaghut"],
+  "outcome_options": ["npc_defeated", "player_defeated", "npc_flees"],
+  "description_patterns": [
+    "{player} fights {npc} with {weapon} and {outcome}.",
+    "{player} encounters {npc} and {outcome} after combat."
+  ]
+}
